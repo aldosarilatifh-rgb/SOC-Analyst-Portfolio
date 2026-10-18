@@ -11,7 +11,7 @@
 - **File Integrity Monitoring (FIM):** مراقبة تغييرات الملفات الحساسة في الوقت الفعلي
 - **Active Response:** أتمتة الاستجابة التلقائية عند اكتشاف تهديد
 - **إطار MITRE ATT&CK:** ربط التنبيهات بالتقنيات والتكتيكات المعيارية
-
+- **Endpoint Visibility (EDR):** Syscollector وrootcheck وWazuh Vulnerability Detection وWazuh REST API
 ## 📁 المشاريع
 
 | المشروع | الوصف |
