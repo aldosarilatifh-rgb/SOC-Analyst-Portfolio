@@ -20,6 +20,8 @@
 | [إعداد SIEM (Wazuh)](./02-siem-setup-wazuh) | تنصيب وإعداد Wazuh SIEM كامل من الصفر |
 | [قواعد كشف مخصصة](./03-custom-detection-rules) | كتابة قواعد Correlation لاكتشاف تهديدات متقدمة |
 | [اكتشاف هجوم Brute-force](./04-brute-force-detection) | محاكاة واكتشاف هجوم SSH Brute-force |
-
+| [الرؤية على الجهاز Syscollector](05-endpoint-visibility-syscollector) | اكتشاف بورت مفتوح جديد وتحديد البرنامج المسؤول عنه عبر Wazuh Syscollector وAPI |
+| [كشف Rootkit](06-rootkit-detection-rootcheck) | اختبار وحدة rootcheck بملف وهمي آمن وتحليل حدود الكشف المعتمد على التواقيع |
+| [كشف الثغرات](07-vulnerability-detection-wazuh) | تشخيص نتيجة فارغة في Wazuh Vulnerability Detection خطوة بخطوة |
 ## 📫 تواصل معي
 aldosarilatifh@gmail.com
